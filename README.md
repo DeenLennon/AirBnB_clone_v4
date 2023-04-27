@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Abu Abdulwahab Akoramo (Deen Lennon) https://github.com/DeenLennon
+Abu Abdulwahab Akoramo (Deen Lennon) https://github.com/DeenLennon.git
 
 ## License
 Public Domain. No copy write protection. 
